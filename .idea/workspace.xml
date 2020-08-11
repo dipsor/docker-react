@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f0472df-cdb5-4715-941f-af0a8121fdb5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +14,11 @@
     <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="41" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -93,12 +96,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597166112855</updated>
-      <workItem from="1597166114408" duration="1362000" />
+      <workItem from="1597166114408" duration="1386000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1362000" />
+    <option name="totallyTimeSpent" value="1386000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-180" width="1920" height="1080" extended-state="0" />
@@ -138,7 +141,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="41" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
